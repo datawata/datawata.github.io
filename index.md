@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "여기를바꾸면?"
+title: "WIP"
 ---
 
-# Welcome to My Blog! 👋
+초미완성 blog..
