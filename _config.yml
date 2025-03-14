@@ -1,3 +1,6 @@
 title: "원래 이렇게 어렵나요"
 description: "소개 위치가 왜 여긴진 모르겠지만 예 데이터 입문자에요.."
-theme: minima
+#theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
