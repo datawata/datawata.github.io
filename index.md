@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "WIP"
+title: "Work In Progress"
 ---
 
 초미완성 blog..
